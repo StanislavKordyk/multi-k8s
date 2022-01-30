@@ -11,7 +11,7 @@ function App() {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1>Fib calculator version Kubernetes</h1>
+          <h1>Fib calculator version K8s</h1>
           <Link to="/">Home Link</Link>
           <Link to="/otherpage">Other Page Link</Link>
         </header>
